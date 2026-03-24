@@ -1,2 +1,13 @@
 # Propergationstation
-## Vibecoding Projekt mit PIco 2w und Sonst so sensoren und Krams und so für KLimakiste zum Pflanzenzüchten
+## Microcontroller & Komponente
+    Raspberry Pi Pico 2w 
+    Capacitive soil moisture sensor v.2
+
+
+Test `git status` Test
+
+```c++
+int x = 0;
+int y = x+5;
+```
+
