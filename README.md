@@ -1,7 +1,7 @@
 # Propergationstation
 ## Microcontroller & Komponente
-    Raspberry Pi Pico 2w 
-    Capacitive soil moisture sensor v.2
+Raspberry Pi Pico 2w 
+Capacitive soil moisture sensor v.2
 
 
 Test `git status` Test
